@@ -1,0 +1,6 @@
+github.com/micro/go-micro/v3 v3.0.0-rc1.0.20220628055902-1f7a3eb8a02f h1:5PwKwt2Gfj8+eymFbgut3g8w2TAEWQazpVlyeyiHaRs=
+github.com/micro/go-micro/v3 v3.0.0-rc1.0.20220628055902-1f7a3eb8a02f/go.mod h1:hBTBJFbtoFDjifG8mFjPYMKzkbdLkeU42FPWcfYhsVw=
+github.com/micro/go-micro/v3 v3.0.0-rc1.0.20220525202815-d747b0c8a136 h1:WM0v04Mi8SfZv7BCtvwbsP67Sm1uCGu09ErXgijQQKo=
+github.com/micro/go-micro/v3 v3.0.0-rc1.0.20220525202815-d747b0c8a136/go.mod h1:6vwEixiO8DbK4dFBRo5p1MS1pj0FC2dFxFg1zCD1DT8=
+github.com/micro/go-micro/v3/util v3.0.0-rc1.0.20220623125526-998f296545e1 h1:Cmf/As1o25JvqxWAMSG/sG0By3gHds4NIZZjulMvBkI=
+github.com/micro/go-micro/v3/util v3.0.0-rc1.0.20220623125526-998f296545e1/go.mod h1:PVsJi4VBu0ksfe0Nj+7ubuYw3HVc2C9xG+1+nF/X0YM=
